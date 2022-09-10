@@ -1,5 +1,5 @@
 # Sung-NCVR-2022-scRNA
-Scripts for analyzing feature expression in endothelial cell subsets from mouse embryo scRNAseq datasets, to be published as "Sinusoidal and lymphatic vessel growth are controlled by reciprocal VEGF-C–CDH5 inhibition" in Nature Cardiovascular Research 2022.
+Scripts for analyzing feature expression in endothelial cell subsets from mouse embryo scRNAseq datasets, to be published as "Sinusoidal and lymphatic vessel growth are controlled by reciprocal VEGF-C – CDH5 inhibition" in Nature Cardiovascular Research (2022).
 <br><br>
 
 ## Datasets (downloaded automatically from public repository)
