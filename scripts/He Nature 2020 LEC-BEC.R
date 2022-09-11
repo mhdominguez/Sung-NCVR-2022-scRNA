@@ -19,8 +19,8 @@ library(data.table)
 # Preferences
 #############
 seurat_umap_alpha_hex_string = "d0"
-working_path = "/home/martin/Documents/20-22/Derek scRNAseq 2022 analysis/He Nature 2020/Process"
-setwd(working_path)
+#working_path = "/home/martin/Documents/20-22/Derek scRNAseq 2022 analysis/He Nature 2020/Process"
+#setwd(working_path)
 #write(paste0("TMP = \'",working_path,"\'"), file=file.path('~/.Renviron'))
 paired_colors <- brewer.pal(name = "Paired", n=12)
 beach_colors <- c("#1a748e","#f0df99","#55c4d7","#5f6c24","#992915","#d38e31","#81c7f8","#bbc4af","#393430","#92dccd","#63fba9","#1155d4","#abb2ba","#eccd16","#7b5c52","#063581","#ecdfcf")

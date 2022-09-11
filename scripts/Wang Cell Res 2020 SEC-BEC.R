@@ -19,13 +19,13 @@ library(ggpubr)
 #Preferences
 #############
 seurat_umap_alpha_hex_string = "d0"
-data_path = "/home/martin/Documents/20-22/Derek scRNAseq 2022 analysis/Wang Cell Res 2020/Process"
+#data_path = "/home/martin/Documents/20-22/Derek scRNAseq 2022 analysis/Wang Cell Res 2020/Process"
 beach_colors <- c("#1a748e","#f0df99","#55c4d7","#5f6c24","#992915","#d38e31","#81c7f8","#bbc4af","#393430","#92dccd","#63fba9","#1155d4","#abb2ba","#eccd16","#7b5c52","#063581","#ecdfcf")
 paired_colors <- brewer.pal(name = "Paired", n=12)
 beach_colors_alpha <- paste0( beach_colors, seurat_umap_alpha_hex_string )
 paired_colors_alpha <- paste0( paired_colors, seurat_umap_alpha_hex_string )
-
-setwd(data_path)
+data_path=""
+#setwd(data_path)
 
 
 ##############################################################################

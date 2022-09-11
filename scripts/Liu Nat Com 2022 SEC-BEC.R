@@ -20,7 +20,7 @@ library(data.table)
 #Preferences
 #############
 seurat_umap_alpha_hex_string = "d0"
-setwd("/home/martin/Documents/20-22/Derek scRNAseq 2022 analysis/Liu Nat Com 2022/Process")
+#setwd("/home/martin/Documents/20-22/Derek scRNAseq 2022 analysis/Liu Nat Com 2022/Process")
 paired_colors <- brewer.pal(name = "Paired", n=12)
 beach_colors <- c("#1a748e","#f0df99","#55c4d7","#5f6c24","#992915","#d38e31","#81c7f8","#bbc4af","#393430","#92dccd","#63fba9","#1155d4","#abb2ba","#eccd16","#7b5c52","#063581","#ecdfcf")
 beach_colors_alpha <- paste0( beach_colors, seurat_umap_alpha_hex_string )
